@@ -11,7 +11,7 @@ var $livesHeader = document.querySelector('#lives-header')
 var $missHeader = document.querySelector('#miss-header')
 var $livesEnd = document.querySelector('#lives-end')
 
-var colors = ['red', 'blue', 'yellow', 'green', 'pink']
+var colors = ['#B5B8B1', '#78DBE2', '#E32636', '#9966CC', '#44944A', '#BDECB6', '#C1876B', '#003153', '#A5260A', '#ECEBBD', '#FFCF40', '#2A8D9C', '	#641C34', '#3E5F8A', '#9ACEEB', '#F34723', '#FFAE42', '#1164B4']
 var score = 0
 var lives = 3
 var miss = 0
