@@ -87,6 +87,7 @@ body {
   min-width: 300px;
   max-width: 300px;
   max-height: 300px;
+  border-radius: 5px;
 }
 
 .hide {

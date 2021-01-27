@@ -39,6 +39,7 @@ function startGame() {
     $resultHeader.classList.add('hide')
     $livesHeader.classList.remove('hide')
     $livesEnd.classList.add('hide')
+    $missHeader.classList.add('hide')
     isGameStarted = true
     $game.style.backgroundColor = '#fff'
     $start.classList.add('hide')
